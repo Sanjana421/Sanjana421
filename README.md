@@ -32,4 +32,4 @@ volatility, and trading volume.
 
 ---
 
-[Portfolio](your-link) · [LinkedIn](https://linkedin.com/in/sanjana-reddy-nenturi) · sanjanareddynenturi@gmail.com
+[Portfolio]([your-link](https://sanjana421.github.io/Portfolio/)) · [LinkedIn](https://linkedin.com/in/sanjana-reddy-nenturi) · sanjanareddynenturi@gmail.com
